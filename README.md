@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KeshavGoy
-- 👀 I’m interested in Coding, Anime, Gaming and Lawn Tennis,
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @KeshavGoyal
+- 👀 I’m interested in Coding, Anime, Gaming and Tennis,
+- 🌱 I’m a Software Developer.
 - 📫 How to reach me mail at keshavgoyal2001@gmail.com
 
 <!---
